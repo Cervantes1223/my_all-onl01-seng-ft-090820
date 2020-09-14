@@ -8,11 +8,4 @@ require 'pry'
  end 
 end 
 
-def block_return_values
- if block_return_values.include?(false)
-    false
-  else
-    true
-  end
-end
 
